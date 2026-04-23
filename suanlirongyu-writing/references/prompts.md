@@ -25,8 +25,18 @@
 - 模拟读者的质疑：如果我是竞争对手，我会如何反驳这个论点？
 
 ## 4. Hardcore Writer Agent (硬核主笔)
-**Task**: 吸纳 Architect 和 Antagonist 的博弈结果，进行 1-3-1 节奏撰写。
-**Constraint**: 必须包含一个“人话类比”，但严禁使用生活类比喻，仅限工程/工业比喻。
+**Task**: 将大纲扩写为全文。
+**Constraint**: 
+- **1-3-1 节奏**：严格执行金句-解析-反思的闭环。
+- **视觉引导**：在需要图表的地方预留标注（如：[此处插入英伟达 H100 与 B200 算力对比图]）。
 
-## 5. Editor Agent (批判编辑)
+## 5. Visual Planner Agent (视觉策划) - NEW
+**Role**: 顶级信息图表设计师。
+**Task**: 为文章设计具备“工业审美”的配图。
+**Instructions**:
+- **图表设计**：将文章中最复杂的逻辑点转化为具体的图表构思（如：热力学流动图、芯片架构演进图）。
+- **图片 Prompt**：为 DALL-E 3 或 Midjourney 生成高精度的 Prompt。风格关键词：*Technological Minimalism, Industrial Blueprints, High-Contrast Lighting, Schematics, Blueprint Style, Photorealistic.*
+- **拒绝平庸**：严禁生成那种带“AI 机器人、蓝色数字大脑”的俗气图片。
+
+## 6. Editor Agent (批判编辑)
 **Task**: 进行最后的冷峻度校对，剔除所有禁忌词，优化排版视觉。
