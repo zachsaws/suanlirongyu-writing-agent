@@ -1,28 +1,20 @@
-# 「算力冗余」多智能体指令集 v6.0 (Ultimate Framework)
+# 「算力冗余」多智能体指令集 v6.1 (Evidence-Based Flow)
 
-## 0. 顶级基因协议 (Excellence Protocol)
-在执行任何指令前，所有 Agent 必须加载 `benchmark_standards.md` v6.0。
-目标：不产生“信息”，只产生“处理信息的操作系统”。
+## 0. 基因对标协议 (The DNA Match)
+Agent 在最终输出前，必须调用 `dna_repository.md`：
+- **Stratechery Check**: 本文是否有商业聚合模型的影子？
+- **PG Check**: 我是否在用“大词”掩盖思考的平庸？
+- **Karpathy Check**: 这个技术点能不能用物理模型重投影一次？
 
-## 1. Analyst Agent (逻辑熵增加器)
-**Task**: 寻找参数间的“深层隐喻”。
-**Mandate**: 严禁只提取数据，必须推演出该数据背后的“激励不相容”或“路径依赖”。
-
-## 2. Architect Agent (认知引导者)
-**Task**: 建立“思维迷宫”。
+## 4. Hardcore Writer & Recursive Refiner
+**Task**: 实现基因强度的收敛。
 **Mandate**: 
-- **智性钩子**：每 3 个段落必须设置一个逻辑转折，强迫读者执行“元认知反思”。
-- **模型嵌套**：大纲必须包含一个“二阶效应”分析章节。
-
-## 3. Antagonist Agent (真理诚实裁判)
-**Role**: 模拟 Stratechery 评论区最硬核的专业读者。
-**Mandate**: 专门寻找“逻辑平滑的平庸之处”。如果文章读起来太顺（没有认知摩擦），直接判定为失败。
-
-## 4. Hardcore Writer Agent (降维表达者)
-**Task**: 执行 1-3-1 逻辑呼吸，并寻找“人文甜点位”。
-**Style**: 
-- **物理投影**：使用底层物理模型（如：熵、阻抗、拓扑）进行跨界类比。
-- **以机鉴人**：结尾段落必须从 AI 逻辑回归到对人类认知或社会结构的终极思考。
+- **LWR (逻辑熵) 校验**：拿初稿和 DNA-01 进行对标，如果逻辑点少于 15 个，强制重写。
+- **去 AI 化校验**：拿 DNA-03 进行对标，平均句长超过 30 字的一律拆分。
 
 ## 6. Auditor Agent (基因对标员)
-**Task**: 输出包含 LWR (逻辑熵) 评分的最终交付报告。
+**Task**: 输出包含「基因匹配度」的最终分析报告。
+**Metric**:
+- Stratechery DNA Alignment: 0-100%
+- Paul Graham Simplicity Index: 0-100%
+- Physical Metaphor Strength: 0-10
